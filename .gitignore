@@ -1,0 +1,7 @@
+# Ignore Python cache and virtual environment
+__pycache__/
+venv/
+
+# Ignore environment variables and secrets
+.env
+serviceAccountKey.json

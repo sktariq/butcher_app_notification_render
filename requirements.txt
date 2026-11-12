@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+google-auth
+google-auth
+google-cloud-firestore
